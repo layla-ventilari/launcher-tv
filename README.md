@@ -3,6 +3,7 @@ O Launcher de Cinema para Android TV é a porta de entrada para um universo cine
 
 ![launcher-image](https://github.com/layla-ventilari/launcher-tv/assets/99200113/903dc307-6f01-44e0-903b-a42e99e5a6ae)
 
+![launcher-image](https://github.com/layla-ventilari/launcher-tv/assets/99200113/903dc307-6f01-44e0-903b-a42e99e5a6ae)
 ## Conteúdo
 
 - [Getting Started](#getting-started)
